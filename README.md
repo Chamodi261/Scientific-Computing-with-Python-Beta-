@@ -58,5 +58,18 @@ In this project, fundamental programming concepts in Python, including variables
     python building_cipher.py
     ```
 
----
+## Password Generator
 
+### Overview
+In this project, you'll learn how to import modules from the Python standard library. You'll also learn how to use Regular Expressions by building your own password generator program.
+
+### How to Run
+1. Clone the repository to your local machine.
+2. Navigate to the "password_generator" directory.
+3. Run the program using a Python interpreter:
+
+    ```bash
+    python password_generator.py
+    ```
+
+---
