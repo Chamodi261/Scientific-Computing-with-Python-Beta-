@@ -72,4 +72,19 @@ In this project, you'll learn how to import modules from the Python standard lib
     python password_generator.py
     ```
 
+## Shortest Path Algorithm Implementation
+
+### Overview
+In this project, you'll learn how to use functions, loops, conditional statements, and dictionary comprehensions to implement a Shortest Path algorithm.
+
+### How to Run
+1. Clone the repository to your local machine.
+2. Navigate to the "shortest_path_algorithm" directory.
+3. Run the program using a Python interpreter:
+
+    ```bash
+    python shortest_path_algorithm.py
+    ```
+
 ---
+
