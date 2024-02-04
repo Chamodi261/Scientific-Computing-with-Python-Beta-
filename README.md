@@ -1,6 +1,3 @@
-Certainly! Here's the modified README file with the requested addition:
-
-```markdown
 # Scientific Computing with Python (Beta) - FreeCodeCamp Projects
 
 ## Case Converter Program
@@ -100,4 +97,3 @@ This additional project introduces you to the Tower of Hanoi mathematical puzzle
     ```bash
     python tower_of_hanoi_solver.py
     ```
-```
