@@ -87,7 +87,7 @@ In this project, you'll start with a loop-based approach to solving the tower of
 ## Tower of Hanoi Solver
 
 ### Overview
-This additional project introduces you to the Tower of Hanoi mathematical puzzle. Initially, a loop-based approach is employed to solve the puzzle, followed by an exploration of a recursive solution.
+In this additional project, you'll learn how to interact with data structures by sorting a list of random numbers using the Merge Sort Algorithm.
 
 ### How to Run
 1. Clone the repository to your local machine.
@@ -96,4 +96,18 @@ This additional project introduces you to the Tower of Hanoi mathematical puzzle
 
     ```bash
     python tower_of_hanoi_solver.py
+    ```
+
+## Sorting with Merge Sort Algorithm
+
+### Overview
+In this extension, you'll explore interacting with data structures by sorting a list of random numbers using the Merge Sort Algorithm.
+
+### How to Run
+1. Clone the repository to your local machine.
+2. Navigate to the "sorting_with_merge_sort" directory.
+3. Run the program using a Python interpreter:
+
+    ```bash
+    python sorting_with_merge_sort.py
     ```
