@@ -1,5 +1,6 @@
----
+Certainly! Here's the modified README file with the requested addition:
 
+```markdown
 # Scientific Computing with Python (Beta) - FreeCodeCamp Projects
 
 ## Case Converter Program
@@ -75,7 +76,7 @@ In this project, you'll learn how to import modules from the Python standard lib
 ## Shortest Path Algorithm Implementation
 
 ### Overview
-In this project, you'll learn how to use functions, loops, conditional statements, and dictionary comprehensions to implement a Shortest Path algorithm.
+In this project, you'll start with a loop-based approach to solving the tower of Hanoi mathematical puzzle. Then you'll learn how to implement a recursive solution.
 
 ### How to Run
 1. Clone the repository to your local machine.
@@ -86,5 +87,17 @@ In this project, you'll learn how to use functions, loops, conditional statement
     python shortest_path_algorithm.py
     ```
 
----
+## Tower of Hanoi Solver
 
+### Overview
+This additional project introduces you to the Tower of Hanoi mathematical puzzle. Initially, a loop-based approach is employed to solve the puzzle, followed by an exploration of a recursive solution.
+
+### How to Run
+1. Clone the repository to your local machine.
+2. Navigate to the "tower_of_hanoi_solver" directory.
+3. Run the program using a Python interpreter:
+
+    ```bash
+    python tower_of_hanoi_solver.py
+    ```
+```
