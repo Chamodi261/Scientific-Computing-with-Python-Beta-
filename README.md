@@ -111,3 +111,33 @@ In this extension, you'll explore interacting with data structures by sorting a 
     ```bash
     python sorting_with_merge_sort.py
     ```
+    
+## Sudoku Solver
+
+### Overview
+In this Sudoku Solver project, you'll learn how to use classes and objects to build a Sudoku grid and to solve a Sudoku puzzle. The implementation involves leveraging algorithmic techniques to systematically fill in the grid and ensure that each row, column, and 3x3 subgrid adheres to Sudoku rules.
+
+### How to Run
+1. Clone the repository to your local machine.
+2. Navigate to the "sudoku_solver" directory.
+3. Run the program using a Python interpreter:
+
+    ```bash
+    python sudoku_solver.py
+    ```
+
+## Binary Search Tree (BST) Implementation
+
+### Overview
+In this project, you'll learn how to construct your own Binary Search Tree (BST) and perform an in-order traversal. The implementation covers key operations like insertion, search, and deletion, providing hands-on experience with fundamental data structures and algorithms.
+
+### How to Run
+1. Clone the repository to your local machine.
+2. Navigate to the "binary_search_tree" directory.
+3. Run the program using a Python interpreter:
+
+    ```bash
+    python binary_search_tree.py
+    ```
+
+
